@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/padishax021/.gitlab.io/test_react/static/css/main.ff02f4b5.css",
+    "main.js": "/padishax021/.gitlab.io/test_react/static/js/main.746ccdb6.js",
+    "static/js/453.d1a06aa6.chunk.js": "/padishax021/.gitlab.io/test_react/static/js/453.d1a06aa6.chunk.js",
+    "index.html": "/padishax021/.gitlab.io/test_react/index.html",
+    "main.ff02f4b5.css.map": "/padishax021/.gitlab.io/test_react/static/css/main.ff02f4b5.css.map",
+    "main.746ccdb6.js.map": "/padishax021/.gitlab.io/test_react/static/js/main.746ccdb6.js.map",
+    "453.d1a06aa6.chunk.js.map": "/padishax021/.gitlab.io/test_react/static/js/453.d1a06aa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.746ccdb6.js"
+  ]
+}
